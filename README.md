@@ -8,10 +8,10 @@ This repository contains implementations of algorithms, data structures, systems
 
 | Project | Concepts |
 |---------|----------|
-| Finance | Flask, SQLite, Authentication, REST APIs, Web Development |
-| Tideman | Graph Algorithms, Cycle Detection, Ranked-Choice Voting |
-| Speller | Hash Tables, Linked Lists, Dynamic Memory, File I/O |
 | Filter | Image Processing, Convolution, BMP Manipulation, C Programming |
+| Finance | Flask, SQLite, Authentication, REST APIs, Web Development |
+| Speller | Hash Tables, Linked Lists, Dynamic Memory, File I/O |
+| Tideman | Graph Algorithms, Cycle Detection, Ranked-Choice Voting |
 
 ## Technologies
 
